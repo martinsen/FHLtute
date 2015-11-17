@@ -8,9 +8,7 @@
   "main": "index.html",
   "keywords": [
     "Polymer",
-    "PubNub",
-    "Todo",
-    "List"
+    "Calculator"
   ],
   "license": "MIT",
   "homepage": "",
